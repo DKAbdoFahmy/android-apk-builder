@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.sampleapp'
+    namespace 'org.citron.citron_emu_nightly'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.sampleapp"
+        applicationId "org.citron.citron_emu_nightly"
         minSdk 21
         targetSdk 34
         versionCode 1
